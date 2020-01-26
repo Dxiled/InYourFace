@@ -1,5 +1,5 @@
 '''
-Hands Free
+In Your Face
 A program that automatically scrolls webpages when you blink
 Author: Derek Xu
 derek_yhx@gmail.com
